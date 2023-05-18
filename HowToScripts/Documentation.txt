@@ -1,0 +1,11 @@
+# User Agent for browser (What is my user agent?)
+https://www.whatismybrowser.com/detect/what-is-my-user-agent/
+
+# Options for webdriver
+https://peter.sh/experiments/chromium-command-line-switches/
+
+#IT IS *NOT* POSSIBLE TO DETECT AND BLOCK CHROME HEADLESS
+https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html
+
+# To test the browser options
+https://bot.sannysoft.com/
